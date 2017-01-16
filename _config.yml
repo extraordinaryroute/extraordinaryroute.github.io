@@ -6,7 +6,7 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Anna Kennedy's blog
+title: Anna Kennedy
 description: Anna Kennedy
 url: ""
 twitter_username: 
@@ -17,7 +17,7 @@ name: Anna Kennedy
 profile_img: 
 profile: 
 social:
-  github: 
+  instagram: @anna_ken_
 
 # Build settings
 include: ["_categories"]
