@@ -23,7 +23,6 @@ The next couple of days were spent exploring the area: up hill and down dale, ar
 
 After four good days on the piste I was thrilled - as we all were, I suspect - to find that I’d progressed from my first ungainly movements towards something that looked a little more like actual skiing. True, there was still the odd moment when a small child would zoom past me, but on occasion I would actually overtake someone, although this was usually followed by a faceplant. On one particularly long day, a breakaway group even attempted a red run and a jump (much to the delight of the snowboarders waiting at the top of the slope) but it was unclear whether this was intentional or possibly due to misnavigation at high speed.
 
-![Nordseter](/assets/images/xcnordseter4.jpg){:class="img-responsive"}
 
 On our last day I ventured out alone early morning to have a bit of time to myself. The temperature was hovering around -15C, which in practical terms meant that slogging uphill in the sunshine I was plenty warm enough, but cruising downhill in the shade got very cold very quickly. Despite being on pisted slopes, I saw almost no-one and the feeling of remoteness was tangible.
 
