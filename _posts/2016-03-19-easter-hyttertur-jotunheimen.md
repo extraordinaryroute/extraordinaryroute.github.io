@@ -18,19 +18,20 @@ Our 7-day trip would lead us in a circle starting and ending at Fondsbu, and spe
 We set off from Oslo at 5am on Saturday 19 March, allowing plenty of time to get to Tyin for about 11am, in order to catch the beltebil to Fondsbu at 12am. I hadn't realised in advance that the carpark at Tyin cost about 100 kroner a day, but in a moment of paranoia I'd taken a small stack of emergency money with us. We arrived with heaps of time to take photos of the glorious beltebil - a small but fantastically noisy tank-like vehicle straight out of the 1950s.
 
 ![Jotunheimen](/assets/images/jotunheimen/jotun1.JPG){:class="img-responsive"}
-<div style="text-align: right"><i>The beltebil</i></div>
+*The beltebil*
+
 
 Forty-five minutes later we were dropped off at Fondsbu. I'd had the good fortune to talk to some more experienced folk during the journey and discovered two very useful facts: first, the wind was blowing from the NW so we could either have the wind in our face on day 1 or day 5 depending which way round we went; second, the track between Fondsbu and Olafsbu was in a different place this year to where it was marked on the map. We'd planned to go clockwise, and decided we could manage wind-in-the-face better at the start of the trip than later.
-
-![Jotunheimen](/assets/images/jotunheimen/jotun2.JPG){:class="img-responsive"}
 
 Setting off out of Fondsbu on skis at last, we discovered something that would colour most of our days: most of what looked like snow was in fact ice. Two weeks previously it had been +7, and now it was -7 again, so everything had melted and then set hard. We had skins on but getting up the gently rolling icy hills was an exercise in persistence, and getting down them again even more challenging. Mid afternoon we swung left into the valley leading to Olavsbu and were met by the wind in full force. Heads down we plodded silently along, it being too noisy to hear each other by now. About half an hour from the hut, and with twilight starting to fall, we met a group of four ladies who hadn't got the memo about the track having moved and were worried they were in the wrong place. Even though I was pretty sure we were close to the hut, it was a relief when we finally saw it just as it was getting properly cold and dark. We piled through the door into the warmth and set about cooking dinner, this being a self-service hut.
 
 ![Jotunheimen](/assets/images/jotunheimen/jotun3.JPG){:class="img-responsive"}
+*Still having fun despite the gnarly weather*
+
 
 ## Day 2 Olavsbu-Leirvassbu 12km
 
-We set off from Olavsbu after breakfast, to be greeted with the same howling gale we'd left the day before, but this improved as we swung gradually to north-west. Leirvassbu wasn't far away though, and we arrived there in time for a late lunch. Unlike the humble DNT hytte we'd stayed at the night before, this was almost a hotel, and absolutely heaving with top-turers. Hahn had lost one of her skins the day before when it blew away in the wind - I have no idea how she managed to ski without it - but happily she was able to buy a new set at reception. 
+We set off from Olavsbu after breakfast, to be greeted with the same howling gale we'd left the day before, but this improved as we swung gradually to north-west. Leirvassbu wasn't far away though, and we arrived there in time for a late lunch. Unlike the humble DNT hytte we'd stayed at the night before, this was almost a hotel, and absolutely heaving with top-turers. Hahn had lost one of her skins the day before when it blew away in the wind - I have no idea how she managed to ski without it - but happily she was able to buy a new set at reception.
 
 As we were staying at a private hut we weren't allowed to cook, but we took this more as a guideline and figured if we cooked out of sight of everyone then it was probably ok. Boiling water in 15m/s wind turned out to be more difficult than it sounds, and after about twenty minutes of trying we gave up and ate our luke-warm curry with crunchy noodles.
 
@@ -38,13 +39,15 @@ As we were staying at a private hut we weren't allowed to cook, but we took this
 
 The next day the wind had dropped and we had an easy day over to Spiterstulen hytte. The topptourers were out in force heading up the mountains on both sides of the valley we were travelling through. I'm not a good enough downhill skiier to even consider topptouring at this point, but it does look fun, although given the avalanche risk after two days of high winds it was nice to stick to the valley floor and not have to worry.
 
+![Jotunheimen](/assets/images/jotunheimen/jotun2.JPG){:class="img-responsive"}
+
 Spiterstulen hut has the air of middle-ages settlement about it, but with the luxury of a sauna. I'd expected to spend the week being stinky, but I'd managed a shower at Leirvassbu and now a sauna. This was distinctly less roughing it that I'd anticipated. 
 
 ## Day 4 Spiterstulen - Glitterheim 18km
 
 The weather was very mild now, although the downside of that was that there wasn't a lot of snow around the hut, and we'd walked the last half hour the day before. This morning was similar - we started out with quite a steep climb in rocky terrain that we didn't even consider doing on skis. At the top this flattened out and we got geared up again, and as we dropped into the the valley on the far side we finally found what had been missing up til now - snow. Deep, soft, snow. Oh, it was a joy, and over far too soon.
 
-![Jotunheimen](/assets/images/jotunheimen/jotun48.JPG){:class="img-responsive"}
+![Jotunheimen](/assets/images/jotunheimen/jotun8.JPG){:class="img-responsive"}
 
 ## Day 5 Glitterheim - Memurubu 23km
 
@@ -59,6 +62,8 @@ The closer we got to Memurubu hytta, the worse the conditions became. I lost my 
 We spent the evening looking at maps and rather discouraged by the utter lack of skiiable snow, we decided to bail. The plan was supposed to be to go west to Gjendubu and then Fondsbu in one or two days, and take the beltebil back to the car. However if we went East to Gjendesheim, we'd be back on the main road where we could potentially hitch a lift south back to where the car was parked. Having chatted to some friends we'd randomly met over dinner, I knew they'd come from Gjendesheim so I knew that road was open.
 
 ![Jotunheimen](/assets/images/jotunheimen/jotun6.JPG){:class="img-responsive"}
+*Me trying to come up with a plan B*
+
 
 ## Memurubu-Gjendesheim 11km
 
