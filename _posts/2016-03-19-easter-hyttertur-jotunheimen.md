@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Easter hyttatur in Jotunheimen, Norway"
+title: "Hyttetur in Jotunheimen"
 date: 2016-03-19
 categories: skiing norway jotunheimen
+description: Hut-to-hut xc skiing at Easter in Norway's national park
 image: /assets/images/jotunheimen/jotun4.JPG
 ---
 
