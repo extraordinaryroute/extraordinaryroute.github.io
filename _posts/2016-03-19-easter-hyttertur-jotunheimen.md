@@ -3,7 +3,7 @@ layout: post
 title: "Easter hyttatur in Jotunheimen, Norway"
 date: 2016-03-19
 categories: skiing norway jotunheimen
-image: /assets/images/jotunheimen/
+image: /assets/images/jotunheimen/jotun4.JPG
 ---
 
 Despite having already lived in Norway for a couple of years, I hadn't really got into skiing - every decent winter day I had free I usually went climbing. But I was starting to feel a draw towards getting out into the mountains and having a different experience, and I had a week off for Easter in late March that I fancied using to do a bit of exploring. I bought some metal-edged fjellski in January and managed to get out into the marka near Oslo a grand total of three times, which in addition to my previous 7 days' downhill skiing and 10 days' langrenn cross-country skiing, meant I had a grasp on the basics but my 'technique' tended towards the 'walking with skis on' end of the spectrum. Still, better to try and fail than sit at home and stare at the walls. I was lucky enough to have a great partner in crime for the trip, my Canadian friend Hahn, and having investigated a few route options we plumped for a circular tour in Jotunheimen with a route suggested by some Norwegian friends.
@@ -17,7 +17,7 @@ Our 7-day trip would lead us in a circle starting and ending at Fondsbu, and spe
 We set off from Oslo at 5am on Saturday 19 March, allowing plenty of time to get to Tyin for about 11am, in order to catch the beltebil to Fondsbu at 12am. I hadn't realised in advance that the carpark at Tyin cost about 100 kroner a day, but in a moment of paranoia I'd taken a small stack of emergency money with us. We arrived with heaps of time to take photos of the glorious beltebil - a small but fantastically noisy tank-like vehicle straight out of the 1950s.
 
 ![Jotunheimen](/assets/images/jotunheimen/jotun1.JPG){:class="img-responsive"}
-*The beltebil*
+<div style="text-align: right"><i>The beltebil</i></div>
 
 Forty-five minutes later we were dropped off at Fondsbu. I'd had the good fortune to talk to some more experienced folk during the journey and discovered two very useful facts: first, the wind was blowing from the NW so we could either have the wind in our face on day 1 or day 5 depending which way round we went; second, the track between Fondsbu and Olafsbu was in a different place this year to where it was marked on the map. We'd planned to go clockwise, and decided we could manage wind-in-the-face better at the start of the trip than later.
 
@@ -43,7 +43,7 @@ Spiterstulen hut has the air of middle-ages settlement about it, but with the lu
 
 The weather was very mild now, although the downside of that was that there wasn't a lot of snow around the hut, and we'd walked the last half hour the day before. This morning was similar - we started out with quite a steep climb in rocky terrain that we didn't even consider doing on skis. At the top this flattened out and we got geared up again, and as we dropped into the the valley on the far side we finally found what had been missing up til now - snow. Deep, soft, snow. Oh, it was a joy, and over far too soon.
 
-![Jotunheimen](/assets/images/jotunheimen/jotun4.JPG){:class="img-responsive"}
+![Jotunheimen](/assets/images/jotunheimen/jotun48.JPG){:class="img-responsive"}
 
 ## Day 5 Glitterheim - Memurubu 23km
 
