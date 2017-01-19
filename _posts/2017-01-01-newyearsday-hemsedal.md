@@ -16,7 +16,10 @@ From the car, I estimated it to be about an hour's approach and maybe three pitc
 
 I set up to belay under the route but behind a shield of small trees, figuring it would give less rope drag but still be protected. Lee set off and did a grand job of a pitch that turned out to be difficult in its poor ice and creative protection. An immense amount of ice and snow rained down but the saplings protected me as I'd hoped, although the smaller pieces pinged off the branches in a surprising number of directions. After a full 60m plus a couple more he was at the belay, and I followed up.
 
-The top pitch looked great from close up, slightly less steep than I'd hoped at about WI3 but with lovely ice that was hard enough for screws but soft enough for first time axe placements. At the top I had to dodge a channel in the ice carved out by water runoff, but after that it was just a short swim in the snow to a good tree belay. We abbed back down the way we'd come up, and were back at the car for a late lunch. Sometimes it all goes so smoothly!
+![Hemsedal](/assets/images/newyearhems/hems4.JPG){:class="img-responsive"}
+*The top pitch*
+
+The top pitch looked great from close up, slightly less steep than I'd hoped at about WI3 but with lovely plastic ice that was good for both screws and first time axe placements. At the top I had to dodge a channel in the ice carved out by water runoff, but after that it was just a short swim in the snow to a good tree belay. We abbed back down the way we'd come up, and were back at the car for a late lunch. Sometimes it all goes so smoothly!
 
 ![Hemsedal](/assets/images/newyearhems/hems3.JPG){:class="img-responsive"}
 *An easy abseil*
