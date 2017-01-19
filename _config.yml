@@ -14,8 +14,8 @@ default_img:
 
 # Profile settings
 name: Anna Kennedy
-profile_img: 
-profile: 
+profile_img: "/assets/images/anna.jpg"
+profile: "Anna spends all of her free time exploring the outdoors, including winter climbing, trad climbing, mountaineering, skiing, and hiking. If it's an adventure, she's happy."
 social:
   instagram: "https://www.instagram.com/anna_ken_/"
 
