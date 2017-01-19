@@ -17,7 +17,7 @@ name: Anna Kennedy
 profile_img: 
 profile: 
 social:
-  instagram: "@anna_ken_"
+  instagram: "https://www.instagram.com/anna_ken_/"
 
 # Build settings
 include: ["_categories"]
