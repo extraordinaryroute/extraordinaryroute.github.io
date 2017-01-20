@@ -28,6 +28,8 @@ The most famous climb on Lundy is the Devil's Slide - a bold slab of rock that r
 ![Down_devils_slide](/assets/images/lundy/lundy3.JPG){:class="img-responsive"}
 *The Devil's Slide*
 
+Despite being entirely sea-cliffs, there is a surprising variety of climbing around the island
+
 ![2_up_devils_slab](/assets/images/lundy/lundy11.JPG){:class="img-responsive"}
 
 The lack of fresh water means a maximum of 40 tourists on the island at any one time, but you might spot another climber if you keep your eyes open
