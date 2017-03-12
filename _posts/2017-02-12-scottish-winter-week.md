@@ -53,7 +53,7 @@ The next day we decided to move location, and decided to take a drive over towar
 ![Scotland](/assets/images/scotland17/s10.JPG){:class="img-responsive"}
 *The gorgeous scenary of west Scotland*
 
-The avalanche forecast was high the next day so we made plans to do a route on Douglas Boulder below Ben Nevis, but theong day of driving the day before was definitely not what the doctor ordered, and I had to stop after the first hour of the approach. I was super disappointed to have to stop, I've never climbed on Ben Nevis and the weather was great. But at the same time it was a long and committing route on a mountain, and I felt like the margin of safety was going to be too small. I spent the rest of the day trying to feel less ill, less frustrated and less guilty.
+The avalanche forecast was high the next day so we made plans to do a route on Douglas Boulder below Ben Nevis, but the long day of driving the day before was definitely not what the doctor ordered, and I had to stop after the first hour of the approach. I was super disappointed to have to stop, I've never climbed on Ben Nevis and the weather was great. But at the same time it was a long and committing route on a mountain, and I felt like the margin of safety was going to be too small. I spent the rest of the day trying to feel less ill, less frustrated and less guilty.
 
 ![Scotland](/assets/images/scotland17/s11.JPG){:class="img-responsive"}
 *This is as close as we got to Ben Nevis...*
