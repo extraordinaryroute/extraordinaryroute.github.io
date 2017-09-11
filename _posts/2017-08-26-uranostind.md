@@ -6,7 +6,7 @@ categories: mountaineering, climbing, women, norway, jotunheimen
 image: /assets/images/uranostind/uranos1.JPG
 ---
 
-Angela, June and I had planned to get up and away as fast as possible on Saturday morning, but we had a slight hiccup when something fell off my car as I parking at Koldedalsvatnet. After a brief assessment we agreed there was nothing to be done at that point so we set out anyway, but I was so busy fretting that I missed the path from the road entirely, so we ended up bashing across some rough ground and crossing a river in a rather difficult place before picking up the track proper again. There seemed to be a fair few people about and I was worried that we'd be queuing on the route, but as it turned out most people were out for glacier walking that day.
+Angela, June and I had planned to get up and away as fast as possible on Saturday morning, but we had a slight hiccup when something fell off my car as I was parking at Koldedalsvatnet. After a brief assessment we agreed there was nothing to be done at that point so we set out anyway, but I was so busy fretting that I missed the path from the road entirely, so we ended up bashing across some rough ground and crossing a river in a rather difficult place before picking up the track proper again. There seemed to be a fair few people about and I was worried that we'd be queuing on the route, but as it turned out most people were out for glacier walking that day.
 
 ![Uranostind_map](/assets/images/uranostind/uranostind_map.jpg){:class="img-responsive"}
 
