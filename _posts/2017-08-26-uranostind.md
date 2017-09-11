@@ -2,7 +2,7 @@
 layout: post
 title: "Uranostind South Ridge"
 date: 2017-03-05
-categories: mountaineering, climbing, women, norway, jotunheimen
+categories: mountaineering climbing women norway jotunheimen
 image: /assets/images/uranostind/uranos1.JPG
 ---
 
