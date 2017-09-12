@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uranostind South Ridge"
-date: 2017-03-05
+date: 2017-08-26
 categories: mountaineering climbing norway
 image: /assets/images/uranostind/uranos1.JPG
 ---
