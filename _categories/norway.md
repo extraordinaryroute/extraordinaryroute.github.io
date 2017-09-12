@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Norway
-description:
+title: norway
 permalink: /category/norway/
 ---
 {% include category.html %}
