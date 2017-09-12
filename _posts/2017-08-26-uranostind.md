@@ -22,7 +22,7 @@ The upper ridge was super fun, easy climbing on surprisingly solid rock, never m
 
 ![Uranostind](/assets/images/uranostind/uranos4.JPG){:class="img-responsive"}
 
-We had planned to descend to the west down the scree slopes, but by chance I bumped into my friend Ina on the summit who was working as a glacier guide that day. She assured us that coming down the glacier to the east with axes but not crampons would be fine in these conditions, as long as we were careful to stay right towards the bottom. This was a much better descent, and apart from a bit of messing about at the bottom trying to not fall into the bergschrund, a lot faster than the way we'd planned. We got back to the car just before 8, and were eating dinner before sunset. All in all a fantastic day out.
+We had planned to descend to the west down the scree slopes, but by chance I bumped into my friend Ina on the summit who was working as a glacier guide that day. She assured us that coming down the glacier to the east with axes but not crampons would be fine in these conditions, as long as we were careful to stay right towards the bottom. This was a much better descent, and apart from a bit of messing about at the bottom trying to not fall into the bergschrund, a lot faster than the way we'd planned. We got back to the car just before 8, and were eating dinner before sunset. As I'd not been out in the mountains all year, I was really pleased with how well the day went, and I fell asleep planning my next getaway.
 
 
 
