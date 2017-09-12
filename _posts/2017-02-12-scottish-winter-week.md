@@ -2,7 +2,7 @@
 layout: post
 title: "A week of Scottish winter climbing"
 date: 2017-02-12
-categories: mountaineering scottish-winter-climbing scotland cairngorms glen-coe aonoch-mor
+categories: mountaineering scottish-winter-climbing uk
 image: /assets/images/scotland17/s1.JPG
 image-sm:
 ---

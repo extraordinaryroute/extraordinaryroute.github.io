@@ -2,7 +2,7 @@
 layout: post
 title: "Lundy: a photoessay"
 date: 2013-08-31
-categories: climbing lundy uk
+categories: climbing uk
 description: Trad climbing on Lundy island
 image: /assets/images/lundy/lundy2.JPG
 ---
