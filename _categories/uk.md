@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skiing
-permalink: /category/skiing/
+title: uk
+permalink: /category/uk/
 ---
 {% include category.html %}
