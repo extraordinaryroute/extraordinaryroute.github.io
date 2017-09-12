@@ -14,7 +14,7 @@ Situated in the south of Jotunheimen, Uranostind is a good-looking ridge running
 
 ![Uranostind](/assets/images/uranostind/uranos2.JPG){:class="img-responsive"}
 
-The first couple of hours were characterised by gently steepening hiking, until we gained the first shoulder of Uranostind and took a short break whilst it was flat. The next section was the lower ridge, easy scrambling with one tricky move, and at the top of this we passed two women on their way down, having bivvied on the shoulder overnight. A little way beyond this, the ridge started to steepen and narrow, and we got to a knife-edge section a few meters long that looked like easy climbing but with a very long way to fall down both sides, so we got the rope on at this point and belayed each other across. After this it was a few hundred meters on flat ground before we got to the upper ridge, but it wasn't realy worth unroping just to rope up again.
+The first couple of hours were characterised by gently steepening hiking, until we gained the first shoulder of Uranostind and took a short break whilst it was flat. The next section was the lower ridge, easy scrambling with one tricky move, and at the top of this we passed two women on their way down, having bivvied on the shoulder overnight. A little way beyond this, the ridge started to steepen and narrow, and we got to a knife-edge section a few meters long that looked like easy climbing but with a very long way to fall down both sides, so we got the rope on at this point and belayed each other across. After this it was a few hundred meters on flat ground before we got to the upper ridge, but it wasn't really worth unroping just to rope up again.
 
 ![Uranostind](/assets/images/uranostind/uranos3.JPG){:class="img-responsive"}
 
