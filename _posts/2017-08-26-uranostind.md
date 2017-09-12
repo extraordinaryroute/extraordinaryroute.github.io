@@ -10,7 +10,7 @@ Angela, June and I had planned to get up and away as fast as possible on Saturda
 
 ![Uranostind_map](/assets/images/uranostind/uranostind_map.jpg){:class="img-responsive"}
 
-Situated in the south of Jotunheimen, Uranostind is a good-looking ridge running S-N with a peak at 2107m, and more or less 900m of ascent. I wasn't entirely sure how hard the climbing might be so we took enough gear and ropes to pitch it if necessary, but I hoped we'd be able to move together for speed. Angela had climbed a little in this manner before but June hadn't, but as they're both better climbers than me I was pretty sure they would find it very steady.
+Situated in the south of Jotunheimen, Uranostind is a good-looking ridge running S-N with a peak at 2107m, and more or less 900m of ascent. I wasn't entirely sure how hard the climbing might be so we took enough gear and ropes to pitch it if necessary, but I hoped we'd be able to move together for speed. Angela had climbed a little in this manner before but June hadn't, but as they both climb slightly harder grades than me I was pretty sure they would find it very steady.
 
 ![Uranostind](/assets/images/uranostind/uranos2.JPG){:class="img-responsive"}
 
