@@ -3,7 +3,7 @@ layout: post
 title: "The Vengetind Traverse"
 date: 2017-09-09
 categories: mountaineering climbing norway
-image: /assets/images/vengetindtraversen1.JPG
+image: /assets/images/vengetindtraversen/vengetindtraversen1.JPG
 ---
 
 Actually it's not so bad sleeping here, I thought to myself. This ledge is pretty flat, we have some food still, and though I can hear the wind raging on the other side of the ridge, it's still here. We're both in good spirits and the lights of Romsdal down in the valley are very pretty. Shame I didn't pack those extra leggings though...
