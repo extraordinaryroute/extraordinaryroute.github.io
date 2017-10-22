@@ -32,14 +32,14 @@ At about 6pm we passed a pair doing the traverse in the opposite direction; they
 
 Somewhere around the south summit the sun started to hang very low in the sky, and we spied a couple of gullies off the east side of the ridge that looked like they might dump us down onto the plateau. Two abseils through looser and looser ground brought me to a kink in the gulley that I hoped hid an ease in the angle. As I got close enough to see round the corner, I realised that from here was a few hundred meters of near vertical choss. I shouted up to Espen not to bother coming down, and we scrambled back up to the ridge again.
 
-![Dusk](/assets/images/vengetind/vengetindtraversen4.JPG){:class="img-responsive"}
+![Dusk](/assets/images/vengetind/vengetindtraversen7.JPG){:class="img-responsive"}
 *Dusk over Romsdal*
 
 Just under the skyline, it was twilight. On the far side was a glacier, but neither of us was psyched to try out an unknown and possibly crevassed glacier in the dark and fog. The way ahead was the same giant jigsaw puzzle that we'd spent half the day on; trying to find a route down in the pitch black would be somewhere between painfully slow and potentially dangerous. On the plus side, where we were right then was calm and still, mostly flat, it wasn't snowing at this point, we were well dressed and had food and water remaining, plus we had an emergency foil bivvy bag with us. Sleeping right here was an easy decision to make.
 
 As we cleared away the sharper rocks, we wondered if the people in the hut would be worried about us. They were all pretty friendly, but we didn't have anybody's number. We decided that the best thing to do would be to call the police (who handle the mountain rescue calls) to let them know where we were and that we were fine, and didn't need rescuing (I let Espen the native Norwegian do this bit). As we settled down for the night we saw the rescue helicopter out visiting at least a couple of other mountains nearby, which made me extra glad we'd called in - I'm relatively sure they would have seen us with the infrared camera.
 
-![Bivvy](/assets/images/vengetind/vengetindtraversen7.JPG | width=400){:class="img-responsive"}
+![Bivvy](/assets/images/vengetind/vengetindtraversen7.JPG){:class="img-responsive"}
 *Bivvy selfie - still smiling*
 
 The night passed for me in short dozes, where I dreamt of being back climbing the ridge. We'd agreed that if it started to rain or snow we'd move into a sheltered but uncomfortable cave we'd spotted round the corner, but honestly we were both so tired that I'm pretty sure we would have just pulled the bivvy bag up and gone back to sleep.
