@@ -39,7 +39,7 @@ Just under the skyline, it was twilight. On the far side was a glacier, but neit
 
 As we cleared away the sharper rocks, we wondered if the people in the hut would be worried about us. They were all pretty friendly, but we didn't have anybody's number. We decided that the best thing to do would be to call the police (who handle the mountain rescue calls) to let them know where we were and that we were fine, and didn't need rescuing (I let Espen the native Norwegian do this bit). As we settled down for the night we saw the rescue helicopter out visiting at least a couple of other mountains nearby, which made me extra glad we'd called in - I'm relatively sure they would have seen us with the infrared camera.
 
-![Bivvy](/assets/images/vengetind/vengetindtraversen7.JPG){:class="img-responsive"}
+![Bivvy](/assets/images/vengetind/vengetindtraversen7.JPG | width=400){:class="img-responsive"}
 *Bivvy selfie*
 
 The night passed for me in short dozes, where I dreamt of being back climbing the ridge. We'd agreed that if it started to rain or snow we'd move into a sheltered but uncomfortable cave we'd spotted round the corner, but honestly we were both so tired that I'm pretty sure we would have just pulled the bivvy bag up and gone back to sleep.
