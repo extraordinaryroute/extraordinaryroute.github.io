@@ -32,7 +32,7 @@ At about 6pm we passed a pair doing the traverse in the opposite direction; they
 
 Somewhere around the south summit the sun started to hang very low in the sky, and we spied a couple of gullies off the east side of the ridge that looked like they might dump us down onto the plateau. Two abseils through looser and looser ground brought me to a kink in the gulley that I hoped hid an ease in the angle. As I got close enough to see round the corner, I realised that from here was a few hundred meters of near vertical choss. I shouted up to Espen not to bother coming down, and we scrambled back up to the ridge again.
 
-![Dusk](/assets/images/vengetind/vengetindtraversen7.JPG){:class="img-responsive"}
+![Dusk](/assets/images/vengetind/vengetindtraversen4.JPG){:class="img-responsive"}
 *Dusk over Romsdal*
 
 Just under the skyline, it was twilight. On the far side was a glacier, but neither of us was psyched to try out an unknown and possibly crevassed glacier in the dark and fog. The way ahead was the same giant jigsaw puzzle that we'd spent half the day on; trying to find a route down in the pitch black would be somewhere between painfully slow and potentially dangerous. On the plus side, where we were right then was calm and still, mostly flat, it wasn't snowing at this point, we were well dressed and had food and water remaining, plus we had an emergency foil bivvy bag with us. Sleeping right here was an easy decision to make.
